@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/settings"
+        android:title="Item"
+        android:icon="@drawable/ic_baseline_settings_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/exist"
+        android:title="exit"
+        android:icon="@drawable/ic_baseline_close_24"
+        app:showAsAction="ifRoom"/>
+    <item android:title="Save"
+        android:id="@+id/save"/>
+    <item android:title="Leave"
+        android:id="@+id/leave"/>
+
+</menu>

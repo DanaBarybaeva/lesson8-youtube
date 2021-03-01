@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/uib"
+        android:title="UIB" />
+    <item
+        android:id="@+id/mit"
+        android:title="MIT" />
+    <item
+        android:id="@+id/sdu"
+        android:title="SDU" />
+    <item
+        android:id="@+id/ny"
+        android:title="NY university" />
+
+</menu>

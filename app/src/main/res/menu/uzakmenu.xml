@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/jic"
+        android:title="Jic" />
+    <item
+        android:id="@+id/ktl"
+        android:title="KTL" />
+    <item
+        android:id="@+id/oxford"
+        android:title="Oxford" />
+    <item
+        android:id="@+id/galaxy"
+        android:title="Galaxy school" />
+</menu>
